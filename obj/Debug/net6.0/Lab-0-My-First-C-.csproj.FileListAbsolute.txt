@@ -1,0 +1,15 @@
+C:\Users\HP\My\Lab-0-My-First-C-\bin\Debug\net6.0\Lab-0-My-First-C-.exe
+C:\Users\HP\My\Lab-0-My-First-C-\bin\Debug\net6.0\Lab-0-My-First-C-.deps.json
+C:\Users\HP\My\Lab-0-My-First-C-\bin\Debug\net6.0\Lab-0-My-First-C-.runtimeconfig.json
+C:\Users\HP\My\Lab-0-My-First-C-\bin\Debug\net6.0\Lab-0-My-First-C-.dll
+C:\Users\HP\My\Lab-0-My-First-C-\bin\Debug\net6.0\Lab-0-My-First-C-.pdb
+C:\Users\HP\My\Lab-0-My-First-C-\obj\Debug\net6.0\Lab-0-My-First-C-.csproj.AssemblyReference.cache
+C:\Users\HP\My\Lab-0-My-First-C-\obj\Debug\net6.0\Lab-0-My-First-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\My\Lab-0-My-First-C-\obj\Debug\net6.0\Lab-0-My-First-C-.AssemblyInfoInputs.cache
+C:\Users\HP\My\Lab-0-My-First-C-\obj\Debug\net6.0\Lab-0-My-First-C-.AssemblyInfo.cs
+C:\Users\HP\My\Lab-0-My-First-C-\obj\Debug\net6.0\Lab-0-My-First-C-.csproj.CoreCompileInputs.cache
+C:\Users\HP\My\Lab-0-My-First-C-\obj\Debug\net6.0\Lab-0-My-First-C-.dll
+C:\Users\HP\My\Lab-0-My-First-C-\obj\Debug\net6.0\refint\Lab-0-My-First-C-.dll
+C:\Users\HP\My\Lab-0-My-First-C-\obj\Debug\net6.0\Lab-0-My-First-C-.pdb
+C:\Users\HP\My\Lab-0-My-First-C-\obj\Debug\net6.0\Lab-0-My-First-C-.genruntimeconfig.cache
+C:\Users\HP\My\Lab-0-My-First-C-\obj\Debug\net6.0\ref\Lab-0-My-First-C-.dll
